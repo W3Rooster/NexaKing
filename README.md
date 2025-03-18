@@ -7,7 +7,7 @@ It represents AI innovation, blockchain decentralization, and the future of inte
 - 🌐 Website: [kingaiw.com](https://kingaiw.com)
 - 📄 Whitepaper: [Read Here](https://kingaiw.com/index.php/whitepaper/)
 - 📜 Roadmap: [Read Here](https://kingaiw.com/index.php/roadmap/)
-- 📢 Socials: [X (Twitter)](https://x.com/KingaiwETH), [Mastodon](https://mastodon.com/kingaiw), [Telegram](https://t.me/KINGAIW)
+- 📢 Socials: [X (Twitter)](https://x.com/KingaiwETH), [Mastodon](https://mastodon.social/@kingaiw), [Telegram](https://t.me/KINGAIW)
 - 🔥 GitHub Repository: [W3Rooster/KINGAIW](https://github.com/W3Rooster/KINGAIW)
 
 ---
