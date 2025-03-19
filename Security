@@ -1,0 +1,57 @@
+# SECURITY.md - KINGAIW Security Policy
+
+## **🔒 Security Policy for KINGAIW (The King of the AI World)**
+
+### **📌 Overview**
+At **KINGAIW**, security is a top priority. We are committed to ensuring the safety of our smart contracts, community, and ecosystem. This document outlines our approach to security, best practices, and how to report vulnerabilities.
+
+---
+
+## **🛡️ Smart Contract Security**
+**1️⃣ Smart Contract Audits**
+- The KINGAIW smart contract follows **Ethereum’s ERC-20 standard** and has undergone internal reviews.
+- We **recommend third-party audits** for further verification and transparency.
+- All contract details are **available on GitHub and Etherscan** for public verification.
+
+**2️⃣ Immutable & Fixed Supply**
+- **Total Supply:** 21,000,000 KINGAIW (No minting, no extra issuance).
+- **No hidden tax mechanisms.**
+- **No admin functions for altering supply or balances.**
+
+**3️⃣ Verified Deployment**
+- The smart contract will be **verified on Etherscan** for full transparency.
+- Users can check the contract source code and validate transactions.
+
+---
+
+## **🚨 Reporting Security Issues**
+If you discover a security vulnerability in **KINGAIW**, please report it responsibly.
+
+🔹 **Contact Email:** info@kingaiw.com (or use GitHub issues for non-critical bugs).  
+🔹 **Preferred Reporting Method:** Submit a detailed description of the issue, including how it can be exploited.  
+🔹 **Response Time:** We aim to acknowledge reports within **48 hours** and implement fixes as necessary.  
+🔹 **Bug Bounties:** While KINGAIW does not currently have a bug bounty program, we may reward critical discoveries on a case-by-case basis.  
+
+⚠️ **DO NOT publicly disclose vulnerabilities until the issue is resolved.**  
+
+---
+
+## **🛠 Best Security Practices for Users**
+To stay safe when using KINGAIW, follow these guidelines:
+
+✔ **Use the Official Contract Address** – Always verify KINGAIW’s contract on **Etherscan** before making transactions.
+✔ **Avoid Suspicious Links** – Only trust links from **kingaiw.com**, GitHub, or our official social media.
+✔ **Double-Check Transactions** – Always confirm transactions before signing with your wallet.
+✔ **Keep Your Private Keys Secure** – Never share your private keys or seed phrases.
+✔ **Use a Hardware Wallet** – If holding large amounts, consider using a **Ledger or Trezor**.
+
+---
+
+## **📢 Future Security Enhancements**
+🔹 Continuous monitoring of contract interactions.  
+🔹 Possible future bug bounty programs.  
+🔹 Ongoing security updates and reviews.  
+
+📌 **For updates and discussions, follow KINGAIW on GitHub and our official social channels.**  
+🚀 **Stay secure, stay decentralized!**
+
