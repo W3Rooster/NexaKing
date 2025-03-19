@@ -28,6 +28,15 @@ We prioritize security. Our contract has been **audited**, and reports are publi
 
 ---
 
+## 📌 **4. GitHub Best Practices for Crypto Transparency**  
+
+🔴 **1 Enable Discussions** – To allow community input.  
+🔵 **2 Set Issues for Bug Reports** – To encourage responsible disclosures.  
+🟢 **3 Enable GitHub Actions (Auto-Update Docs)** – Helps keep contract updates in sync.  
+🟡 **4 Use GitHub Pages (Optional)** – Can host a simple docs page.  
+
+---
+
 ## 🛠️ Smart Contract:
 ```solidity
 pragma solidity ^0.8.0;
@@ -38,3 +47,5 @@ contract KINGAIW {
     uint8 public decimals = 18;
     uint256 public totalSupply = 21000000 * (10 ** uint256(decimals));
 }
+
+
