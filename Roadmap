@@ -1,80 +1,71 @@
-# 🚀 NexaKing (NXK) Roadmap
+# 🧠🚀 NexaKing (NXK) Roadmap
 
-### Our Vision for the Future  
-**The King of the AI World (KINGAIW)** token is committed to long-term sustainability, organic growth, and expanding the adoption of AI-focused blockchain disruption across Web3 and beyond.
+## 🌌 Our Vision for the Future
+**NexaKing (NXK)** is built to lead a new wave of decentralized innovation — long-term focused, transparent, and centered around AI & Ethereum synergy. No VCs. No hype. Just verifiable progress.
 
 ---
 
-## 🏗️ Phase 1: Foundation & Market Entry (Year 1)
+## 🪐 Phase 1: Foundation & Launch (Year 1)
 
 ### ✅ Token Launch & Uniswap Listing
-- Successfully deploy $NXK on the Ethereum network as an ERC-20 token.
-- Establish liquidity pools on Uniswap for seamless trading.
+- Deploy $NXK as an ERC-20 token on Ethereum mainnet
+- Pair 2.5 ETH with NXK for initial liquidity
+- Lock LP on Uniswap for long-term community trust
 
-### ✅ Website & AI Content Strategy
-- Maintain a structured 5-year content plan focused on AI, blockchain, and decentralized tech.
-- Publish consistent AI-related articles and discussions on **NexaKing.com**.
-- Integrate social auto-posting to X (Twitter), Telegram, GitHub, LinkedIn, and Facebook.
+### 🧠 Website, SEO & AI-Focused Content
+- Launch **NexaKing.com** with full branding suite
+- Schedule and auto-publish 300 blog posts over 5 years
+- Focus content on AI governance, smart cities, and crypto ecosystems
 
-### ✅ Community Growth & Awareness
-- Build strong engagement on X, Telegram, and Mastodon.
-- Launch educational campaigns to help users understand the mission and utility of NXK.
-- Get listed on key tracking platforms like **DexTools**, **DexScreener**, and **CoinGecko**.
+### 🌍 Community & Platform Visibility
+- Register **NXK** on ENS: `enx.eth`
+- Announce token on platforms like **DexTools**, **DexScreener**, and **CoinGecko**
+- Set up social auto-posting to:
+  - 🐦 X (Twitter)  
+  - 💬 Telegram (dedicated)  
+  - 🦣 Mastodon,  
+  - 💻 LinkedIn  
+  - 📌 Pinterest  
+  - 📢 Discord, Quora, Substack, Medium
 
-### ✅ Security & Smart Contract Audits
-- Conduct independent audits to ensure contract safety and reliability.
-- Maintain a **no-rug**, **no-tax** policy to promote fairness and transparency.
-- Lock liquidity and implement **anti-bot protections** at launch.
-
-### ✅ Transparency & Open-Source Commitment
-- Share smart contract code and tokenomics via GitHub.
-- Publish GitHub-based documentation, whitepaper, roadmap, and other relevant resources.
-
----
-
-## 🌍 Phase 2: Ecosystem Expansion & Governance (Year 2)
-
-### 🧠 AI Utility Expansion
-- Introduce AI-enhanced tools and apps (e.g. smart feeds, AI analytics, or DAO tooling).
-- Explore partnerships with open-source AI models for integration.
-
-### 🧱 Cross-Chain Integration
-- Bridge NXK to compatible blockchains such as Binance Smart Chain (BSC) or Solana.
-- Launch wrapped versions and liquidity pairs on cross-chain DEXs.
-
-### ✨ Community Governance (DAO)
-- Gradually introduce DAO governance mechanisms.
-- Enable token holders to vote on treasury decisions, product features, and roadmap proposals.
-
-### 💼 Business & Developer Adoption
-- Offer NXK token integrations to third-party AI-based apps and developer platforms.
-- Create an open-source SDK to encourage community-built dApps around NXK.
+### 🔐 Smart Contract Security
+- Public verification of contract renouncement or timelock
+- Add contract address and CA hash to GitHub and NexaKing.com
 
 ---
 
-## 🛸 Phase 3: Advanced Utility & Legacy (Year 3+)
+## 🔭 Phase 2: Expansion & Reputation (Year 2)
 
-### 👑 AI World Sovereignty
-- Develop a meta-governance framework linking all W3Rooster tokens.
-- Launch the “AI Sovereign Council” as an interoperable DAO model for cross-token governance.
+### 📊 Cross-Chain Development
+- Explore NXK bridging to BSC, Solana, and zkSync
+- Begin listing process on secondary DEXs (Raydium, PancakeSwap)
 
-### 📡 Research & Future Planning
-- Launch a dedicated GitHub “Futures” branch to openly publish long-term ideas and experiments.
-- Invite academics, researchers, and developers to propose use cases, tools, or whitepaper extensions.
+### 🤝 Partnerships & Collaborations
+- Reach out to other AI-focused or Ethereum-aligned communities
+- Join or initiate DAOs for AI x DeFi experimentation
 
-### 🧬 Tokenomics Refinement
-- Reassess token utility, staking mechanics, and reward models with DAO approval.
-- Maintain full transparency on emissions, burn mechanisms, and ecosystem incentives.
-
----
-
-### 📅 Ongoing Values
-- 🛠 Build in public  
-- 👥 Community-first, no VC model  
-- 🤖 AI-integrated innovation  
-- 🏛️ Open governance & transparency  
+### 🎯 Growth Campaigns
+- Run Learn-to-Earn educational campaigns with NXK rewards
+- Host themed challenges around AI writing, creativity, and smart contracts
 
 ---
 
-> The future of decentralized intelligence is unfolding — and it begins with **NexaKing (NXK)**.
+## 🔮 Phase 3: Ecosystem Scaling & Use-Cases (Year 3+)
 
+### 🏛️ Decentralized Governance
+- Launch Community Treasury DAO (5% of supply)
+- Allow voting on blog themes, token use, and treasury spending
+
+### 💡 Innovation Hubs
+- Launch mini-grants for AI-ETH experiments
+- Partner with indie developers to integrate NXK utility in tools
+
+### 📈 Community-Driven Apps
+- Release tools like:
+  - AI-powered token watchlist
+  - Smart contract verifier for public users
+  - On-chain proposal & feedback tools for NXK holders
+
+---
+
+> ⚙️ Stay updated on the journey at **[NexaKing.com](https://nexaking.com)** or follow the rooster everywhere @W3Rooster!
