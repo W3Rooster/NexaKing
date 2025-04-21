@@ -15,7 +15,7 @@ No venture capital ❌, no private allocations ❌ — just pure Web3 value, pow
 - 📏 **Roadmap**: [Explore Here](https://nexaking.com/roadmap/)
 - 💬 **Socials**:
   - 🕊️ [X (Twitter)](https://x.com/W3Rooster)
-  - 🗣️ [Telegram (NXK Portal)](https://t.me/NexaKingPortal)
+  - 🗣️ [Telegram (NXK Portal)](https://t.me/NexaKingNXK)
   - 🤟 [Discord](https://discord.gg/yourlink)
   - 📃 [Medium](https://medium.com/@w3rooster)
   - 👨‍🎓 [LinkedIn](https://www.linkedin.com/company/w3rooster)
