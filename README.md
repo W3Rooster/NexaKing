@@ -74,7 +74,7 @@ A fair and transparent token distribution to support community strength, ecosyst
 ## 🌟 Vision & Mission
 
 - 🪄 **Empower everyday users**, not insiders or VCs
-- 🔍 **Build transparently**, with fully public allocations
+- 🔍 Build transparently, with open-source code and visible smart contracts
 - 🤖 **Integrate AI with DeFi** to lead future digital economies
 - 📚 **Educate and elevate** new crypto participants
 - 🏛️ **Bridge multi-chain** tools and open-source adoption
