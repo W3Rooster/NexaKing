@@ -19,7 +19,7 @@ No venture capital ❌, no private allocations ❌ — just pure Web3 value, pow
   - 🤟 [Discord](https://discord.gg/yourlink)
   - 📃 [Medium](https://medium.com/@w3rooster)
   - 👨‍🎓 [LinkedIn](https://www.linkedin.com/company/w3rooster)
-  - 📷 [Facebook](https://www.facebook.com/W3Rooster)
+  - 📷 [Facebook](https://www.facebook.com/W3RoosterOfficial/)
   - 🔰 [Mastodon](https://mastodon.social/@W3Rooster)
   - ❓ [Quora](https://www.quora.com/profile/W3Rooster)
   - 🏛️ [CoinMarketCap Community](https://coinmarketcap.com/community/profile/W3Rooster/)
