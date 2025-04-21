@@ -1,57 +1,58 @@
-# SECURITY.md - KINGAIW Security Policy
+# 🔐 SECURITY.md - NexaKing (NXK) Security Policy
 
-## **🔒 Security Policy for KINGAIW (The King of the AI World)**
+## 🛡️ Security Commitment for NexaKing (NXK)
 
-### **📌 Overview**
-At **KINGAIW**, security is a top priority. We are committed to ensuring the safety of our smart contracts, community, and ecosystem. This document outlines our approach to security, best practices, and how to report vulnerabilities.
-
----
-
-## **🛡️ Smart Contract Security**
-**1️⃣ Smart Contract Audits**
-- The KINGAIW smart contract follows **Ethereum’s ERC-20 standard** and has undergone internal reviews.
-- We **recommend third-party audits** for further verification and transparency.
-- All contract details are **available on GitHub and Etherscan** for public verification.
-
-**2️⃣ Immutable & Fixed Supply**
-- **Total Supply:** 21,000,000 KINGAIW (No minting, no extra issuance).
-- **No hidden tax mechanisms.**
-- **No admin functions for altering supply or balances.**
-
-**3️⃣ Verified Deployment**
-- The smart contract will be **verified on Etherscan** for full transparency.
-- Users can check the contract source code and validate transactions.
+### 🧩 Overview
+At **NexaKing (NXK)**, security is a cornerstone of our project. We are fully committed to the safety of our smart contracts, token holders, and the broader ecosystem. This document outlines our approach to building a secure and resilient blockchain environment.
 
 ---
 
-## **🚨 Reporting Security Issues**
-If you discover a security vulnerability in **KINGAIW**, please report it responsibly.
+## 🧠 Smart Contract Security
 
-🔹 **Contact Email:** info@kingaiw.com (or use GitHub issues for non-critical bugs).  
-🔹 **Preferred Reporting Method:** Submit a detailed description of the issue, including how it can be exploited.  
-🔹 **Response Time:** We aim to acknowledge reports within **48 hours** and implement fixes as necessary.  
-🔹 **Bug Bounties:** While KINGAIW does not currently have a bug bounty program, we may reward critical discoveries on a case-by-case basis.  
+### 🔍 Smart Contract Audits
+- The **NXK token contract** follows Ethereum’s **ERC-20 standard** and has undergone **rigorous internal audits**.
+- We **encourage third-party audits** to enhance trust and ensure transparency.
+- Contract code is **open-source** and available on **GitHub** and **Etherscan** for public verification.
 
-⚠️ **DO NOT publicly disclose vulnerabilities until the issue is resolved.**  
+### 🔒 Immutable Design & Fixed Supply
+- **Total Supply:** 21,000,000 NXK (Hard-capped)
+- **No minting**, **no burning**, and **no hidden tax mechanisms**
+- **No administrative functions** for altering token balances or supply.
+
+## 🔐 Ownership, Renounce & Contract Transparency
+
+### 🔓 Ownership Renounced
+- The **smart contract ownership** has been **renounced**, eliminating any privileged control.
+- No central authority can change the contract logic or halt trading activity.
+
+### 📜 Verified on Etherscan
+- The NXK token smart contract is fully **verified on Etherscan**, allowing anyone to explore and inspect the code.
+
+### 🔎 Open-Source Philosophy
+- The source code is **publicly hosted on GitHub** to encourage community reviews, audits, and collaboration.
+
+## 🚨 Anti-Bot & Launch Protections
+- Our smart contract includes **anti-bot mechanisms** to prevent sniper bots during initial launch.
+- **Buy/sell limits**, **cooldown periods**, and **maximum wallet caps** are implemented to ensure fair distribution.
+- **Trading can only be enabled manually** by the deployer after initial liquidity is added, preventing malicious early trades.
+
+## ✅ Verified LP Lock & Transparency
+- **Initial liquidity** will be locked using a trusted third-party locker (e.g., **Unicrypt** or **Team Finance**).
+- **Liquidity Lock duration** will be transparently shared on all our social and GitHub pages.
+
+## 🧠 Community-Centric Practices
+- No private sale.
+- No VCs.
+- No pre-mined advantage.
+- 100% fair launch with **public access and transparency**.
 
 ---
 
-## **🛠 Best Security Practices for Users**
-To stay safe when using KINGAIW, follow these guidelines:
-
-✔ **Use the Official Contract Address** – Always verify KINGAIW’s contract on **Etherscan** before making transactions.
-✔ **Avoid Suspicious Links** – Only trust links from **kingaiw.com**, GitHub, or our official social media.
-✔ **Double-Check Transactions** – Always confirm transactions before signing with your wallet.
-✔ **Keep Your Private Keys Secure** – Never share your private keys or seed phrases.
-✔ **Use a Hardware Wallet** – If holding large amounts, consider using a **Ledger or Trezor**.
+🔗 **Related Links:**
+- [NXK on Etherscan](https://etherscan.io/token/NXAContractHere)
+- [Smart Contract Source on GitHub](https://github.com/W3Rooster/NexaKing)
+- [nexaking.com/security](https://nexaking.com/security)
 
 ---
 
-## **📢 Future Security Enhancements**
-🔹 Continuous monitoring of contract interactions.  
-🔹 Possible future bug bounty programs.  
-🔹 Ongoing security updates and reviews.  
-
-📌 **For updates and discussions, follow KINGAIW on GitHub and our official social channels.**  
-🚀 **Stay secure, stay decentralized!**
-
+🛠️ Security is not a one-time achievement, but an ongoing process. We welcome all community feedback, responsible disclosures, and collaboration to ensure the safest token ecosystem possible.
