@@ -1,57 +1,107 @@
-KINGAIW Whitepaper
-The King of the AI World (KINGAIW)
+# NexaKing (NXK) Whitepaper  
 
-Version 1.0 | March 2025
-1. Introduction
-1.1 Overview
+**Version 1.0 | April 2025**  
 
-The King of the AI World (KINGAIW) is an ERC-20 token designed to symbolize and support the intersection of blockchain technology and artificial intelligence. Built on the Ethereum network, KINGAIW aims to foster discussions, transparency, and innovation around AI governance, ethics, and its role in decentralized systems.
-1.2 Vision & Mission
-KINGAIW is more than just a token—it represents a movement toward responsible AI development, ethical governance, and financial inclusion. Our mission is to:
-✔ Encourage AI-related discussions within the blockchain community.
-✔ Promote transparency by publishing useful content on GitHub.
-✔ Expand through a structured roadmap, ensuring responsible growth.
-✔ Explore cross-chain expansion to make KINGAIW widely accessible.
-✔ Provide a long-term AI content strategy over the next five years.
-2. Tokenomics
-2.1 Token Supply & Allocation
-✔ Total Supply: 21,000,000 KINGAIW (Fixed Supply, No Minting).
-✔ Liquidity & Exchanges: 50% (Uniswap & future listings).
-✔ Ecosystem Development: 20% (Future growth & utility expansion).
-✔ Marketing & Community Rewards: 15% (Airdrops, partnerships, and promotions).
-✔ Core Team & Development: 10% (Team vesting over time).
-✔ Reserve Fund: 5% (Future improvements, security & audits).
-2.2 Deflationary Mechanisms
-KINGAIW has a fixed total supply, ensuring scarcity and long-term value. There are no taxes or transaction fees, making it a transparent and fair token.
-3. Roadmap
-Phase 1: Foundation & Market Entry (Year 1)
-✔ Token Launch & Uniswap Listing
-✔ Website & AI Content Plan (5 Years of Scheduled Posts)
-✔ Community Engagement (X, Telegram, Mastodon)
-✔ GitHub Repository for Transparency
-✔ Smart Contract Security Audit
-Phase 2: Expansion & Utility Development (Year 2-3)
-✔ Exploring Cross-Chain Expansion (BSC, Solana, Layer 2 Solutions)
-✔ Enhanced AI Content & Research Development
-✔ Liquidity Expansion & Potential CEX Listings
-✔ Community-Driven Governance Exploration
-Phase 3: Long-Term Growth & Sustainability (Year 4-5)
-✔ Strengthening AI & Blockchain Education
-✔ Decentralization & Governance Discussions
-✔ Sustained Market Growth & Ecosystem Enhancements
-4. Cross-Chain Expansion Strategy
-✔ Initial Deployment on Ethereum – KINGAIW operates as an ERC-20 token.
-✔ Future Consideration: Binance Smart Chain (BSC) & Solana – Bridging may be explored for enhanced accessibility.
-✔ Bridging Strategy: If demand grows, KINGAIW will explore bridging via Multichain or Wormhole Bridge, ensuring liquidity is not diluted prematurely.
-✔ No KYC Required on DEX Platforms – KINGAIW will prioritize decentralized listings for user accessibility.
-5. Transparency & Open-Source Commitment
-✔ GitHub Repository: All relevant information, including contract audits, development updates, and security transparency, will be publicly available.
-✔ No False Promises: The roadmap is designed with realistic, achievable milestones.
-✔ Continuous AI Content Creation: KINGAIW commits to publishing relevant AI & blockchain content over the next five years.
-6. Conclusion
-KINGAIW is not just another token—it is a movement representing AI, decentralization, and ethical governance. By focusing on long-term content creation, responsible cross-chain expansion, and transparency through GitHub, KINGAIW will establish itself as a credible and forward-thinking digital asset.
-🚀 KINGAIW is here to stay—join us as we shape the future of AI & blockchain!
-________________________________________
-📌 Stay Updated: Follow our official channels for updates on development and roadmap progress.
+---
 
+## 1. Introduction  
+
+### 1.1 Overview  
+**NexaKing (NXK)** is an Ethereum-based ERC-20 token developed by **W3Rooster**, designed to empower the next era of decentralized innovation by combining blockchain transparency with long-term AI strategy and financial fairness.
+
+### 1.2 Mission  
+NexaKing (NXK) is more than a token—it's a declaration of sovereignty in a digital era:
+- 🔬 Empower ethical, long-term AI development.
+- 🌎 Promote transparent governance and open-source publishing.
+- ⚡️ Launch AI-related discussions, tools, and research via community content.
+- 🚀 Enable global cross-chain expansion.
+- 🔒 Avoid VCs and insider allocations for true decentralization.
+
+---
+
+## 2. Tokenomics
+
+### 2.1 Total Supply & Allocation
+**Total Supply:** 21,000,000 NXK (Fixed supply)
+
+| Allocation             | Percentage | Description                                      |
+|------------------------|------------|--------------------------------------------------|
+| Public Liquidity       | 88%        | Locked on Uniswap for public trading             |
+| Community Treasury     | 5%         | Reserved for DAO funding & grants                |
+| Ecosystem Incentives   | 5%         | For dev rewards, cross-chain, and integrations   |
+| Development Reserve    | 2%         | No VC. Team-reserved. Transparent, unlocked      |
+
+All contracts are renounced or verifiably safe.  
+
+---
+
+## 3. Technology Principles
+
+- ✅ **ERC-20 standard compliance**  
+- ⚖️ **Verified smart contracts**, available on GitHub and Etherscan
+- ❎ **No minting**, no admin override functions, and no hidden mechanisms
+- ♻️ Designed for future cross-chain bridges (Polygon, Arbitrum, etc.)
+
+---
+
+## 4. Roadmap Summary
+
+> **For full roadmap see GitHub /Roadmap**
+
+### Phase 1: Foundation (2025)
+- Deploy on Ethereum and launch Uniswap pool.
+- Content publishing across GitHub, Substack, Medium, and Twitter.
+- Community onboarding through Telegram, Discord, and Mastodon.
+
+### Phase 2: Growth (2025-2026)
+- Submit to DEXTools, CoinGecko, and DexScreener.
+- Begin AI tool integration and education campaigns.
+- Enable governance features via Snapshot or custom DAO dApps.
+
+### Phase 3: Expansion (2026+)
+- Develop cross-chain utility (e.g., BNB Chain, Base, Solana)
+- Launch AI-focused grants and bounties.
+- Form ethical partnerships (non-VC, non-custodial).
+
+---
+
+## 5. Security
+
+- ⛓ Audited by third-party and open to community review
+- ❗ Immutable code with renounced ownership
+- 📂 Github repositories available for all smart contracts
+
+---
+
+## 6. Community & Governance
+
+- 💬 Open-source governance, no centralized team control
+- ✊ All decisions driven by $NXK holders
+- ⚖️ DAO to manage treasury, incentives, and upgrades
+
+---
+
+## 7. Socials & Ecosystem
+
+| Platform        | Handle         |
+|----------------|----------------|
+| Website         | [nexaking.com](https://nexaking.com)        |
+| ENS Registered  | enx.eth         |
+| GitHub          | [W3Rooster](https://github.com/W3Rooster) |
+| X (Twitter)     | @W3Rooster      |
+| Telegram        | [t.me/NexaKingOfficial](https://t.me/NexaKingOfficial) |
+| Medium          | W3Rooster       |
+| Discord         | W3Rooster       |
+| Mastodon        | W3Rooster       |
+| CoinMarketCap   | W3Rooster       |
+| Substack        | W3Rooster       |
+| Quora           | W3Rooster       |
+
+---
+
+## 8. Final Words
+
+**NexaKing (NXK)** is designed to build value steadily—through transparency, decentralization, and purposeful AI integration. It is a token meant for thinkers, builders, and decentralized believers.
+
+✨ Let the Sovereign of AI & Ethereum rise. ✨
 
