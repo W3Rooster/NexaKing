@@ -36,7 +36,7 @@ No venture capital. No private investors. Just trustless, long-term Web3 value.
 | **Total Supply**   | 21,000,000 NXK                     |
 | **Initial Price**  | $0.001                             |
 | **Liquidity**      | 100% Public Launch on Uniswap      |
-| **ENS Registered** | `nexaking.eth`                     |
+| **ENS Registered** | `ENX.eth`                     |
 | **Website ENS**    | `nexaking.com`                     |
 
 ---
