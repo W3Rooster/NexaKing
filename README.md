@@ -17,7 +17,7 @@ No venture capital. No private investors. Just trustless, long-term Web3 value.
   - [Mastodon](https://mastodon.social/@W3Rooster)  
   - [Telegram (NXK Dedicated)](https://t.me/NexaKingNXK)  
   - [Medium](https://medium.com/@w3rooster)  
-  - [Discord](https://discord.gg/yourlink)  
+  - [Discord](https://discord.com/channels/@w3rooster/)  
   - [Quora](https://www.quora.com/profile/W3Rooster)  
   - [CoinMarketCap Community](https://coinmarketcap.com/community/profile/W3Rooster/)  
   - [GitHub Organization](https://github.com/W3Rooster)
