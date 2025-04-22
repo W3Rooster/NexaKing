@@ -1,107 +1,93 @@
-# NexaKing (NXK) Whitepaper  
+📄 NexaKing (NXK) Whitepaper
+Version 1.0 | April 2025
+1. Introduction
+1.1 Overview
+NexaKing (NXK) is a decentralized ERC-20 token on Ethereum, developed by W3Rooster, designed to unify AI innovation with blockchain transparency. It promotes sustainable growth, community empowerment, and financial decentralization — all without venture capital.
 
-**Version 1.0 | April 2025**  
+1.2 Vision & Mission
+NexaKing strives to be a beacon of trust and innovation in the Web3 space:
 
----
+🤖 Empower AI adoption in decentralized finance
 
-## 1. Introduction  
+📢 Launch transparently with no private sales or early access
 
-### 1.1 Overview  
-**NexaKing (NXK)** is an Ethereum-based ERC-20 token developed by **W3Rooster**, designed to empower the next era of decentralized innovation by combining blockchain transparency with long-term AI strategy and financial fairness.
+🧱 Deliver long-term value via DAO-driven strategies
 
-### 1.2 Mission  
-NexaKing (NXK) is more than a token—it's a declaration of sovereignty in a digital era:
-- 🔬 Empower ethical, long-term AI development.
-- 🌎 Promote transparent governance and open-source publishing.
-- ⚡️ Launch AI-related discussions, tools, and research via community content.
-- 🚀 Enable global cross-chain expansion.
-- 🔒 Avoid VCs and insider allocations for true decentralization.
+🧬 Encourage ethical, open-source AI + blockchain collaboration
 
----
+🌉 Expand across chains while staying rooted in Ethereum ethos
 
-## 2. Tokenomics
+2. Tokenomics
+2.1 Total Supply
+21,000,000 NXK (Fixed — No Minting)
 
-### 2.1 Total Supply & Allocation
-**Total Supply:** 21,000,000 NXK (Fixed supply)
+2.2 Allocation Breakdown
 
-| Allocation             | Percentage | Description                                      |
-|------------------------|------------|--------------------------------------------------|
-| Public Liquidity       | 88%        | Locked on Uniswap for public trading             |
-| Community Treasury     | 5%         | Reserved for DAO funding & grants                |
-| Ecosystem Incentives   | 5%         | For dev rewards, cross-chain, and integrations   |
-| Development Reserve    | 2%         | No VC. Team-reserved. Transparent, unlocked      |
+Allocation	Percentage	Amount (NXK)	Description
+💧 Liquidity Pool (Uniswap)	40%	8,400,000	Ensures price stability & active DEX trading
+🛠️ Team & Development (Vested)	15%	3,150,000	Locked 1 year, then released monthly (5%) — for upgrades & ecosystem growth
+🤝 Marketing & Partnerships	15%	3,150,000	Strategic collabs, influencer campaigns, and community awareness
+🎁 Staking & Rewards	10%	2,100,000	Incentives for long-term holding & ecosystem activity
+🌱 Ecosystem Fund (Expansion)	10%	2,100,000	Future utilities, collaborations, & AI-based projects
+🚀 Airdrop & Community Incentives	5%	1,050,000	Rewards for early adopters, giveaways, and user onboarding
+🧠 Advisors	5%	1,050,000	Reserved for expert guidance and strategic direction
+📜 Note: All contracts are renounced or verifiably safe.
 
-All contracts are renounced or verifiably safe.  
+3. Roadmap Highlights
+🚀 Phase 1 – Foundation (2025)
+✅ Deploy NXK on Ethereum (Uniswap)
 
----
+✅ Lock liquidity, start 5-year content campaign
 
-## 3. Technology Principles
+✅ Establish community on X, Telegram, Mastodon
 
-- ✅ **ERC-20 standard compliance**  
-- ⚖️ **Verified smart contracts**, available on GitHub and Etherscan
-- ❎ **No minting**, no admin override functions, and no hidden mechanisms
-- ♻️ Designed for future cross-chain bridges (Polygon, Arbitrum, etc.)
+✅ Get listed on DEXTools, DexScreener, CoinGecko
 
----
+🌍 Phase 2 – Growth (2026)
+🔗 Cross-chain expansion (BSC, Solana)
 
-## 4. Roadmap Summary
+📖 Launch learning hub for AI x Blockchain
 
-> **For full roadmap see GitHub /Roadmap**
+🗳️ Introduce DAO voting on treasury funds
 
-### Phase 1: Foundation (2025)
-- Deploy on Ethereum and launch Uniswap pool.
-- Content publishing across GitHub, Substack, Medium, and Twitter.
-- Community onboarding through Telegram, Discord, and Mastodon.
+🧠 Phase 3 – Intelligent Expansion (2027+)
+🤖 AI-integrated dashboards for NXK holders
 
-### Phase 2: Growth (2025-2026)
-- Submit to DEXTools, CoinGecko, and DexScreener.
-- Begin AI tool integration and education campaigns.
-- Enable governance features via Snapshot or custom DAO dApps.
+🛠️ Builder tools (audits, writing, AI agents)
 
-### Phase 3: Expansion (2026+)
-- Develop cross-chain utility (e.g., BNB Chain, Base, Solana)
-- Launch AI-focused grants and bounties.
-- Form ethical partnerships (non-VC, non-custodial).
+🌐 Metaverse & virtual governance experiments
 
----
+4. Security Commitments
+✅ ERC-20 compliant smart contracts
 
-## 5. Security
+🔐 Fixed supply (no mint, no tax)
 
-- ⛓ Audited by third-party and open to community review
-- ❗ Immutable code with renounced ownership
-- 📂 Github repositories available for all smart contracts
+🧾 Verified on Etherscan & open GitHub repo
 
----
+🛡️ No backdoor functions or admin privilege
 
-## 6. Community & Governance
+5. Governance
+NXK will evolve into a DAO where token holders:
 
-- 💬 Open-source governance, no centralized team control
-- ✊ All decisions driven by $NXK holders
-- ⚖️ DAO to manage treasury, incentives, and upgrades
+Propose treasury use cases
 
----
+Vote on listings, grants, and dev bounties
 
-## 7. Socials & Ecosystem
+Shape NexaKing’s AI x Web3 direction
+All actions will be recorded transparently and on-chain.
 
-| Platform        | Handle         |
-|----------------|----------------|
-| Website         | [nexaking.com](https://nexaking.com)        |
-| ENS Registered  | enx.eth         |
-| GitHub          | [W3Rooster](https://github.com/W3Rooster) |
-| X (Twitter)     | @W3Rooster      |
-| Telegram        | [t.me/NexaKingOfficial](https://t.me/NexaKingOfficial) |
-| Medium          | W3Rooster       |
-| Discord         | W3Rooster       |
-| Mastodon        | W3Rooster       |
-| CoinMarketCap   | W3Rooster       |
-| Substack        | W3Rooster       |
-| Quora           | W3Rooster       |
+6. Legal Disclaimer
+NexaKing is not an investment vehicle. No promises, no profit guarantees. Participation is fully voluntary. Always do your own research before engaging in blockchain ecosystems.
 
----
+7. Official Resources
+🌐 Website: nexaking.com
 
-## 8. Final Words
+📖 Whitepaper: nexaking.com/whitepaper
 
-**NexaKing (NXK)** is designed to build value steadily—through transparency, decentralization, and purposeful AI integration. It is a token meant for thinkers, builders, and decentralized believers.
+📊 Tokenomics: nexaking.com/tokenomics
 
-✨ Let the Sovereign of AI & Ethereum rise. ✨
+📍 ENS: ENX.eth
 
+✉️ Contact: info@nexaking.com
+
+Built by W3Rooster — No VC. No hype. Just transparent, AI-anchored, decentralized future.
