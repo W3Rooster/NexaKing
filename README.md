@@ -1,4 +1,4 @@
-# NexaKing (NXK) — The Sovereign of AI & Ethereum 🚀🌐
+# NexaKing (NXK) — The Sovereign of AI & Ethereum 🌐
 
 **NexaKing (NXK)** is a groundbreaking Ethereum-based token launched by [W3Rooster](https://github.com/W3Rooster) with a mission to unify Artificial Intelligence and DeFi under a decentralized, community-first umbrella.
 
