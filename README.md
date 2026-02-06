@@ -1,3 +1,5 @@
+WARNING: > **Status:** NXK is not launched yet. Any NXK contract address or trading link shared outside official channels should be treated as a scam until confirmed here.
+
 # NexaKing (NXK) — The Sovereign of AI & Ethereum 🌐
 
 **NexaKing (NXK)** is a groundbreaking Ethereum-based token launched by [W3Rooster](https://github.com/W3Rooster) with a mission to unify Artificial Intelligence and DeFi under a decentralized, community-first umbrella.
@@ -36,7 +38,7 @@ No venture capital ❌, no private allocations ❌ — just pure Web3 value, pow
 | **Symbol**       | $NXK                                        |
 | **Blockchain**   | Ethereum (ERC-20)                           |
 | **Total Supply** | 21,000,000 NXK                              |
-| **Initial Price**| ~$0.00018                                   |
+| **Initial Price**|determined at launch by the ETH/NXK ratio    |
 | **Liquidity**    | 100% Public, Locked on Uniswap              |
 | **ENS Name**     | `ENX.eth`                                   |
 | **Website ENS**  | `nexaking.com`                              |
@@ -50,14 +52,13 @@ A fair and transparent token distribution to support community strength, ecosyst
 ### Total Supply: **21,000,000 NXK**
 
 | Allocation                    | Percentage | Amount (NXK) | Notes                                                                 |
-|------------------------------|------------|--------------|-----------------------------------------------------------------------|
-| 🚙 Public Liquidity (Uniswap) | 40%        | 8,400,000    | Supports active trading and price discovery. Locked.                 |
-| 👩‍💼 Team & Development       | 15%        | 3,150,000    | Locked 12 months, released 5% monthly thereafter.                    |
-| 🌟 Marketing & Partnerships | 15%        | 3,150,000    | Used for growth, awareness, influencer collaborations.               |
-| 🏋️‍♂️ Staking & Rewards         | 10%        | 2,100,000    | For loyal holders & participants in the ecosystem.                   |
-| 🌐 Ecosystem Fund             | 10%        | 2,100,000    | AI utility, dApp collaborations, future dev expansion.               |
-| 🎁 Airdrops & Community       | 5%         | 1,050,000    | To early supporters, airdrops, viral campaigns.                      |
-| 🤝 Advisors                    | 5%         | 1,050,000    | Strategic guidance, key partnerships.                                |
+|------------------------------|------------|--------------|-------------------------------------------------------|
+| 🚙 Public Liquidity (Uniswap) | 40%        | 9,450,000    | Supports active trading and price discovery. Locked.            
+| 🌐 Ecosystem                  | 20%        | 4,200,000    | AI utility, dApp collaborations, future dev expansion.          
+| 👩‍💼 Team & Development         | 15%        | 3,150,000    | Locked 12 months, released 5% monthly thereafter.               
+| 🌟 Marketing & Partnerships   | 15%        | 2,100,000    | Used for growth, awareness, influencer collaborations.          
+| 🎁 Airdrops & Community       | 5%         | 1,050,000    | To early supporters, airdrops, viral campaigns.                 
+| 🤝 Advisors                   | 5%         | 1,050,000    | Strategic guidance, key partnerships.                          
 
 ---
 
