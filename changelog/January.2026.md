@@ -1,0 +1,111 @@
+NXK Monthly Report — January 2026
+This report documents final-stage smart-contract hardening, deployment strategy redesign, Safe-only governance enforcement, and Binance-grade trust alignment for NXK during January 2026.
+________________________________________
+1. Smart Contract Hardening (NXKToken.sol)
+•	Continued deep review of NXKToken.sol with focus on:
+o	Pair-aware logic
+o	DEX-agnostic behavior
+o	Blocking dangerous addresses/bots
+o	Zero red-flag optics after trading is enabled
+•	Finalized global limits:
+o	setMaxBuyAmountGlobal
+o	setMaxWalletAmountGlobal
+•	Confirmed immutable fee model:
+o	LP tax 0.25%
+o	Dev tax 0.25%
+o	Total fee 0.5% forever
+•	Removed high-risk features entirely:
+o	Manual pause / unpause
+o	sniperExempt mapping and setters
+o	Blacklist / sniper blacklist logic
+•	Kept only time-boxed, launch-only protections:
+o	pauseTradingForBlocks (short emergency window)
+o	Transfer delay at launch (bounded)
+•	Ensured all limits are loosen-only after trading.
+________________________________________
+2. Transfer Logic & Pair-Aware Design
+•	Performed full _transfer() audit (multiple passes).
+•	Confirmed:
+o	Fees apply only on buys/sells, not wallet transfers
+o	Token contract excluded from limits in constructor
+o	Primary pair defined as NXK/WETH
+•	Removed pauseBypass entirely to avoid hidden control paths.
+•	Added explicit errors and optimized if / revert patterns for:
+o	Cleaner audits
+o	Lower gas
+o	Clear UI behavior on failure
+________________________________________
+3. Vesting Architecture Finalization
+•	Migrated fully to OpenZeppelin VestingWallet standard.
+•	Introduced VestingWalletFixedAllocation.sol for clarity.
+•	Final vesting structure:
+o	Team: 24-month cliff + 12-month linear (36months total)
+o	Advisor: 24/ 12
+o	Stake: 12 / 12
+•	Made vesting parameters configurable via .env (network-specific).
+•	Confirmed:
+o	Vesting Safes excluded from limits and sniping
+o	No timelock needed for vesting release
+o	Blacklist logic intentionally absent
+________________________________________
+4. Deployment Strategy Redesign (deploy.ts)
+•	Major redesign of deploy.ts to:
+o	Avoid EOA admin actions
+o	Generate Safe batch JSON payloads instead
+o	Match OZ v5 standards
+•	Final decisions:
+o	Deployment via EOA is acceptable
+o	All admin actions after deployment use Safe batches
+•	Removed:
+o	LP operator EOA (W4) completely
+o	Ownership transfer to timelock from deploy.ts
+•	All minted tokens (8.4M NXK) now transferred directly to SAFE_LC.
+•	Added generation of ordered Safe batch files for:
+o	Pair creation
+o	Liquidity addition
+o	Role configuration
+•	Introduced guards to prevent:
+o	Re-deployment on mainnet
+o	Accidental second pair creation
+________________________________________
+5. Liquidity & Launch Flow Finalization
+•	Final launch order defined:
+1.	Deploy contract
+2.	Create pair (Safe batch)
+3.	Add liquidity directly from SAFE_LC
+4.	Start trading promptly
+5.	Transfer ownership to Timelock
+•	Confirmed:
+o	SAFE_LC must hold ETH for liquidity + gas
+o	SAFE_LP_HOLDER permanently holds LP tokens
+o	Liquidity added in stages, not all at once
+•	Chose direct Safe-based liquidity addition as:
+o	More trustable
+o	MEV-safe
+o	Better for Binance optics
+________________________________________
+6. Timelock & Governance
+•	Reviewed NXKTimelock.sol constructor and logic.
+•	Kept timelock deployment only (no ownership transfer during deploy).
+•	Clarified execution order of Safe batches.
+•	Ensured guardian, LP wallet, and governance roles are:
+o	Explicit
+o	Auditable
+o	Non-extendable post-launch
+________________________________________
+7. Trust, Compliance & Exchange Readiness
+•	Evaluated NXK against Binance listing expectations:
+o	No hidden pause
+o	No blacklist
+o	Immutable fees
+o	Safe-only admin
+o	Transparent liquidity control
+•	Produced internal auditor checklist and investor-friendly explanations.
+•	Confirmed NXK avoids common DEX red flags.
+________________________________________
+8. Infrastructure & Operational Notes
+•	RPC reliability
+•	Hardhat fork safety guards
+•	Website and hosting issues escalated to the provider (Namecheap).
+•	Prepared documentation for opening new development sessions cleanly.
+
